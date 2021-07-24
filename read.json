@@ -1,0 +1,34 @@
+{
+    "exam": [
+        {
+            "question_id": "15",
+            "title": "REDEEMER'S COLLEGE OF TECHNOLOGY AND MANAGEMENT GENERAL STUDIES UNIT FIRST SEMESTER EXAMINATION 2020/2021 SESSION (FT)",
+            "course_title": "INTRODUCTION TO COMPUTING",
+            "class": "ND 1 (FULL TIME)",
+            "course_code": "Comm 111",
+            "course_units": "3",
+            "time_allowed": "3 HR",
+            "instruction": "Answer any three (5) questions. ",
+            "question_one": "Question one: Explain with Biblical examples, the danger of disconnecting from the source of life. What lessons can we learn from this?",
+            "question_two": "Question Two: If you suddenly discover that your bank account was credited with a huge sum of money and you found out that the money is not from your parent, friends, relations, etc? A. What would you do? B. Why would you do that? C. How did you arrive at those decisions",
+            "question_three": "Question three: A. Define Religion? B. Provide reasons why threr are no generally acceptable definitions of religion? C. List five(5) Traits to academic challenge of defining religion?",
+            "question_four": "Question four: A. What is faith? B. List(5) fathers or mothers of faith in the Bible (Heb. 11:1-33) C. Explain Why three(3) of the above listed are called fathers or mothers of faith",
+            "question_five": "Question five: A. Define morality? B. List and explain five(5) Core Values of morality."
+        },
+        {
+            "question_id": "1",
+            "title": "REDEEMER'S COLLEGE OF TECHNOLOGY AND MANAGEMENT GENERAL STUDIES UNIT FIRST SEMESTER EXAMINATION 2020/2021 SESSION (FT)",
+            "course_title": "RELIGION AND MORALITY",
+            "class": "ND 1 (FULL TIME)",
+            "course_code": "GNS 100",
+            "course_units": "1",
+            "time_allowed": "1 HR",
+            "instruction": "Answer any three (3) questions. ",
+            "question_one": "Question one: Explain with Biblical examples, the danger of disconnecting from the source of life. What lessons can we learn from this?",
+            "question_two": "Question Two: If you suddenly discover that your bank account was credited with a huge sum of money and you found out that the money is not from your parent, friends, relations, etc? A. What would you do? B. Why would you do that? C. How did you arrive at those decisions",
+            "question_three": "Question three: A. Define Religion? B. Provide reasons why threr are no generally acceptable definitions of religion? C. List five(5) Traits to academic challenge of defining religion?",
+            "question_four": "Question four: A. What is faith? B. List(5) fathers or mothers of faith in the Bible (Heb. 11:1-33) C. Explain Why three(3) of the above listed are called fathers or mothers of faith",
+            "question_five": "Question five: A. Define morality? B. List and explain five(5) Core Values of morality."
+        }
+    ]
+}
